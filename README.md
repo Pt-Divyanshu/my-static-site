@@ -25,12 +25,14 @@ It includes:
 Open any .html file in a web browser to view the site locally.
 
 The site is automatically published via GitHub Pages from the main branch.
+
 Technologies Used
-HTML5
 
-CSS3
+* HTML5
 
-GitHub Pages
+* CSS3
+
+* GitHub Pages
 
 Author
 Divyanshu Sharma
